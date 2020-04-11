@@ -2,16 +2,16 @@
 
 ## Twitch.tv panel-extension
 
-### In Development
+### IN DEVELOPMENT
 
-#### Version 0.0.1
+#### VERSION 0.0.1
 	
-#### Type : Panel
+#### TYPE : Panel
 	
-#### Created : Apr 15, 2019
+#### CREATED : Apr 15, 2019
 	
 #### STATUS : LOCAL TEST 
 
-#### TRELLO BOARD : 
+#### TRELLO BOARD : TWITCH [ PANEL ]
 
 
