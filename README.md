@@ -1,6 +1,6 @@
 # panel
 
-## Twitch.tv panel-extension
+## Twitch.tv Panel Extension
 
 ### IN DEVELOPMENT
 
